@@ -35,7 +35,6 @@ VinylFtp.prototype.src = require( './lib/src' );
 VinylFtp.prototype.dest = require( './lib/dest' );
 VinylFtp.prototype.delete = require( './lib/delete' );
 VinylFtp.prototype.rmdir = require( './lib/rmdir' );
-VinylFtp.prototype.dest = require( './lib/dest' );
 VinylFtp.prototype.clean = require( './lib/clean' );
 
 assign(
